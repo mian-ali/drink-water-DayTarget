@@ -1,6 +1,6 @@
-# Drink water DayTarget
+# Drink water DayTarget Planner
 
 
-### Project Preview
+### Live Project Preview
 
 [View Demo](https://mian-ali.github.io/drink-water-DayTarget/)
